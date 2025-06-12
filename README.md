@@ -99,6 +99,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Support
 
-For issues, suggestions, or questions, open an issue on the [GitHub repository](https://github.com/example/python-env-setup) or check [how-to-use.txt](how-to-use.txt) for troubleshooting tips.
+For issues, suggestions, or questions, open an issue on the [GitHub repository](https://github.com/PankajBaliyan/env-management) or check [how-to-use.txt](how-to-use.txt) for troubleshooting tips.
 
 Happy coding! 🚀

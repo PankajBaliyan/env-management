@@ -51,7 +51,7 @@ This Bash script simplifies setting up and managing Python virtual environments 
    - To remove a Jupyter kernel, run `jupyter kernelspec uninstall <kernel-name>`.
 
 7. **Support**
-   - For issues or suggestions, check the GitHub repository: https://github.com/example/python-env-setup.
+   - For issues or suggestions, check the GitHub repository: https://github.com/PankajBaliyan/env-management.
    - The script is designed for macOS and Linux; some features (e.g., `sed` commands) are OS-specific.
 
 Enjoy a streamlined Python setup process! 🚀
