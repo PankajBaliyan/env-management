@@ -528,7 +528,7 @@ else
 fi
 
 # --------------------------------------------------
-# 🔹 FEATURE 9: Activate Newly Created Environment
+# 🔹 FEATURE 8: Activate Newly Created Environment
 # --------------------------------------------------
 
 ACTIVATE_CHOICE=$(read_input "💬 Do you want to activate the newly created environment now? (y/N) [auto-continue in 20s]: " "n")
