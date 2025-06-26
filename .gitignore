@@ -2,3 +2,4 @@
 Pipfile
 Pipfile.lock
 temp
+.DS_Store
